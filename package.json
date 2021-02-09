@@ -1,0 +1,23 @@
+{
+  "name": "bible",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "babel-plugin-inline-import": "git+https://github.com/ptcc/babel-plugin-inline-import.git",
+    "classnames": "2.2.6",
+    "core-js": "2.6.12",
+    "next": "latest",
+    "ramda": "0.27.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "sass": "1.32.6"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "description": ""
+}

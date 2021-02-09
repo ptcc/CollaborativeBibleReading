@@ -1,0 +1,46 @@
+.verseContainer{
+  display: inline;
+  &:hover{
+    box-shadow: 0 .1em 0 #999;
+  }
+  &--selected {
+    background: #ffe;
+    box-shadow: 0 1em 0 #ffe;
+    &:hover{
+      box-shadow: 0 .1em 0 #999,0 1em 0 #ffe;
+    }
+    /*> .verseRef{
+      display: inline;
+    }*/
+  }
+}
+
+.selectedVerses{
+  position: fixed;
+  height: 20px;
+  right: 0px;
+  top:0;
+  left:0px;
+  background:#333;
+  color: #ddd;
+  padding-left: 40px;
+}
+
+.verseRef {
+  color: #aaa;
+  font-size: 0.7em;
+  margin-right: 0.4em;
+  display: none;
+}
+
+.verseText {
+  font-size: 18px;
+  font-family: Arial;
+  line-height: 2em;
+}
+
+.bookContainer {
+  margin: 0 auto;
+  padding: 0 40px;
+  max-width: 800px;
+}

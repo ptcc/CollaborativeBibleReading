@@ -1,0 +1,100 @@
+000  Eng  English                    Esp  Español                    Por  Português                  Por  Français                   Rus  русский                    Pin  Pin-yin                    Chi  华文
+01O  Gen  Genesis                    Gen  Génesis                    Gen  Gênesis                    Gen  Genèse                     Быт  Бытие                      Chu  Chuàngshìjì                创   创世记
+02O  Exo  Exodus                     Exo  Éxodo                      Exo  Êxodo                      Exo  Exode                      Исх  Исход                      Chū  Chūāijíjì                  出   出埃及记
+03O  Lev  Leviticus                  Lev  Levítico                   Lev  Levítico                   Lev  Lévitique                  Лев  Левит                      Lìw  Lìwèijì                    利   利未记
+04O  Num  Numbers                    Num  Números                    Num  Números                    Nom  Nombres                    Чис  Числа                      Mín  Mínshùjì                   民   民数记
+05O  Deu  Deuteronomy                Deu  Deuteronomio               Deu  Deuteronômio               Deu  Deutéronome                Вто  Второзаконие               Shē  Shēnméngjì                 申   申命记
+06O  Jos  Joshua                     Jos  Josué                      Jos  Josué                      Jos  Josué                      Иис  Иисус Навин                Yuē  YuēShūyàjì                 书   约书亚记
+07O  Jdg  Judges                     Jcs  Jueces                     Jzs  Juízes                     Jgs  Juges                      Кни  Книга Судей                Shì  Shìshījì                   士   士师记
+08O  Rut  Ruth                       Rut  Rut                        Rut  Rute                       Rut  Ruth                       Руф  Руфь                       Lùd  Lùdéjì                     得   路得记
+09O  1Sa  I Samuel                   1Sa  1 Samuel                   1Sa  I Samuel                   1Sa  1 Samuel                   1Ца  1 Царств                   1Sā  Sāmǔĕrjìshàng              撒上 撒母耳记上
+10O  2Sa  II Samuel                  2Sa  2 Samuel                   2Sa  II Samuel                  2Sa  2 Samuel                   2Ца  2 Царств                   2Sā  Sāmǔĕrjìxià                撒下 撒母耳记下
+11O  1Ki  I Kings                    1Re  1 Reyes                    1Re  I Reis                     1Ro  1 Rois                     3Ца  3 Царств                   1Lw  Lièwángjìshang             王上 列王纪上
+12O  2Ki  II Kings                   2Re  2 Reyes                    2Re  II Reis                    2Ro  2 Rois                     4Ца  4 Царств                   2Lw  Lièwángjìxià               王下 列王纪下
+13O  1Ch  I Chronicles               1Cr  1 Crónicas                 1Cr  I Crônicas                 1Ch  1 Chroniques               1Па  1 Паралипоменон            1Ld  Lìdaìzhìshàng              代上 历代志上
+14O  2Ch  II Chronicles              2Cr  2 Crónicas                 2Cr  II Crônicas                2Ch  2 Chroniques               2Па  2 Паралипоменон            2Ld  Lìdaìzhìxià                代下 历代志下
+15O  Ezr  Ezra                       Esd  Esdras                     Esd  Esdras                     Esd  Esdras                     Езд  Ездра                      Yǐs  Yǐsīlājì                   拉   以斯拉记
+16O  Neh  Nehemiah                   Neh  Nehemías                   Nee  Neemias                    Neh  Néhémie                    Нее  Неемия                     Níx  Níxīmǐjì                   尼   尼希米记
+17O  Est  Esther                     Est  Ester                      Est  Ester                      Est  Esther                     Есф  Есфирь                     Yǐs  Yǐsītièjì                  斯   以斯帖记
+18O  Job  Job                        Job  Job                        Job  Jó                         Job  Job                        Иов  Иов                        Yuē  Yuēbó                      伯   约伯记
+19O  Psa  Psalms                     Sal  Salmos                     Sal  Salmos                     Psa  Psaume                     Пса  Псалтирь                   Shī  Shīpiān                    诗   诗篇
+20O  Pro  Proverbs                   Pro  Proverbios                 Pro  Provérbios                 Pro  Proverbes                  При  Притчи                     Zhē  Zhēnyán                    箴   箴言
+21O  Ecc  Ecclesiastes               Ecl  Eclesiastés                Ecl  Eclesiastes                Ecc  Ecclésiaste                Екк  Екклесиаст                 Chu  Chuándàoshū                传   传道书
+22O  Sos  Song of Solomon            Can  Cantares                   Can  Cantares                   Can  Cantique des Cantiqu       Пес  Песни Песней               Yǎg  Yǎgē                       歌   雅歌
+23O  Isa  Isaiah                     Isa  Isaías                     Isa  Isaías                     Esa  Ésaïe                      Иса  Исаия                      Yǐs  Yǐsaìyàshū                 赛   以赛亚书
+24O  Jer  Jeremiah                   Jer  Jeremías                   Jer  Jeremias                   Jer  Jérémie                    Иер  Иеремия                    Yēl  Yēlìmǐshū                  耶   耶利米书
+25O  Lam  Lamentations               Lam  Lamentaciones              Lam  Lamentações                Lam  Lamentations               Пла  Плач Иеремии               Yēl  Yēlìmǐāigē                 哀   耶利米哀歌
+26O  Eze  Ezekiel                    Eze  Ezequiel                   Eze  Ezequiel                   Eze  Ézéchiel                   Иез  Иезекииль                  Yǐs  Yǐsījiēshū                 结   以西结书
+27O  Dan  Daniel                     Dan  Daniel                     Dan  Daniel                     Dan  Daniel                     Дан  Даниил                     Dàn  Dànyǐlǐshū                 但   但以理书
+28O  Hos  Hosea                      Ose  Oseas                      Ose  Oseas                      Ose  Osée                       Оси  Осия                       Héx  Héxīāshū                   何   何西阿书
+29O  Joe  Joel                       Joe  Joel                       Joe  Joel                       Joe  Joël                       Иои  Иоиль                      Yuē  Yuēĕrshū                   珥   约珥书
+30O  Amo  Amos                       Amo  Amós                       Amo  Amós                       Amo  Amos                       Амо  Амос                       Āmó  Āmósīshū                   摩   阿摩司书
+31O  Oba  Obadiah                    Aba  Abdías                     Oba  Obadias                    Abd  Abdias                     Авд  Авдия                      Ébā  Ébādǐyàshū                 俄   俄巴底亚书
+32O  Jon  Jonah                      Jon  Jonás                      Jon  Jonas                      Jon  Jonas                      Ион  Иона                       Yuē  Yuēnáshū                   拿   约拿书
+33O  Mic  Micah                      Miq  Miqueas                    Miq  Miqueias                   Mic  Michée                     Мих  Михей                      Míj  Míjiāshū                   弥   弥迦书
+34O  Nah  Nahum                      Nah  Nahúm                      Nau  Naum                       Nah  Nahum                      Нау  Наум                       Nàh  Nàhóngshū                  鸿   那鸿书
+35O  Hab  Habakkuk                   Hab  Habacuc                    Hab  Habacuque                  Hab  Habacuc                    Авв  Аввакум                    Hāb  Hābāgǔshū                  哈   哈巴谷书
+36O  Zep  Zephaniah                  Sof  Sofonías                   Sof  Sofonias                   Sph  Sophonie                   Соф  Софония                    Xīf  Xīfānyǎshū                 番   西番雅书
+37O  Hag  Haggai                     Hag  Hageo                      Age  Ageu                       Agg  Aggée                      Агг  Аггей                      Hāg  Hāgāishū                   该   哈该书
+38O  Zec  Zechariah                  Zac  Zacarías                   Zac  Zacarias                   Zac  Zacharie                   Зах  Захария                    Sāj  Sājiālìyàshū               亚   撒迦利亚书
+39O  Mal  Malachi                    Mal  Malaquías                  Mal  Malaquias                  Mal  Malachie                   Мал  Малахия                    Mǎl  Mǎlājīshū                  玛   玛拉基书
+40N  Mat  Matthew                    Mat  Mateo                      Mat  Mateus                     Mat  Matthieu                   Мат  Матфея                     Mǎt  Mǎtaìfúyīn                 太   马太福音
+41N  Mar  Mark                       Mar  Marcos                     Mar  Marcos                     Mar  Marc                       Мар  Марка                      Mǎk  Mǎkĕfúyīn                  可   马可福音
+42N  Luk  Luke                       Luc  Lucas                      Luc  Lucas                      Luc  Luc                        Лук  Луки                       Lùj  Lùjiāfúyīn                 路   路加福音
+43N  Joh  John                       Jua  Juan                       Joa  João                       Jea  Jean                       Иоа  Иоанна                     Yuē  Yuēhànfúyīn                约   约翰福音
+44N  Act  Acts                       Hec  Hechos                     Ato  Atos                       Act  Actes                      Дея  Деяния                     Shǐ  Shǐtúxíngzhuàn             徒   使徒行传
+45N  Rom  Romans                     Rom  Romanos                    Rom  Romanos                    Rom  Romains                    Рим  Римлянам                   Luó  Luómǎshū                   罗   罗马书
+46N  1Co  I Corinthians              1Co  1 Corintios                1Co  I Coríntios                1Co  1 Corinthiens              1Ко  1 Коринфянам               Gēl  Gēlínduōqiánshū            林前 哥林多前书
+47N  2Co  II Corinthians             2Co  2 Corintios                2Co  II Coríntios               2Co  2 Corinthiens              2Ко  2 Коринфянам               Gēl  Gēlínduōhòushū             林后 哥林多后书
+48N  Gal  Galatians                  Gal  Gálatas                    Gal  Gálatas                    Gal  Galates                    Гал  Галатам                    Jiā  Jiālātaìshū                加   加拉太书
+49N  Eph  Ephesians                  Efe  Efesios                    Efe  Efésios                    Eph  Éphésiens                  Ефе  Ефесянам                   Yǐf  Yǐfúsuǒshū                 弗   以弗所书
+50N  Php  Philippians                Flp  Filipenses                 Flp  Filipenses                 Php  Philippiens                Флп  Филиппийцам                Féi  Féilìbǐshū                 腓   腓立比书
+51N  Col  Colossians                 Col  Colosenses                 Col  Colossenses                Col  Colossiens                 Кол  Колоссянам                 Gēl  Gēluóxīshū                 西   歌罗西书
+52N  1Th  I Thessalonians            1Te  1 Tesalonicenses           1Te  I Tessalonicenses          1Th  1 Thessaloniciens          1Фе  1 Фессалоникийцам          1Ts  Tièsāluóníjiāqiánshū       帖前 帖撒罗尼迦前书
+53N  2Th  II Thessalonians           2Te  2 Tesalonicenses           2Te  II Tessalonicenses         2Th  2 Thessaloniciens          2Фе  2 Фессалоникийцам          2Ts  Tièsāluóníjiāhòushū        帖后 帖撒罗尼迦后书
+54N  1Ti  I Timothy                  1Ti  1 Timoteo                  1Ti  I Timóteo                  1Ti  1 Timothée                 1Ти  1 Тимофею                  1Tm  Tímótaìqiánshū             提前 提摩太前书
+55N  2Ti  II Timothy                 2Ti  2 Timoteo                  2Ti  II Timóteo                 2Ti  2 Timothée                 2Ти  2 Тимофею                  2Tm  Ttímótaìhòushū             提后 提摩太后书
+56N  Tit  Titus                      Tit  Tito                       Tit  Tito                       Tit  Tite                       Тит  Титу                       Tíd  Tíduōshū                   多   提多书
+57N  Phm  Philemon                   Flm  Filemón                    Flm  Filemom                    Phm  Philémon                   Флм  Филимону                   Féi  Féilìménshū                门   腓利门书
+58N  Heb  Hebrews                    Heb  Hebreos                    Heb  Hebreus                    Heb  Hébreux                    Евр  Евреям                     Xīb  Xībóláishū                 来   希伯来书
+59N  Jam  James                      Stg  Santiago                   Tia  Tiago                      Jac  Jacques                    Иак  Иакова                     Yǎg  Yǎgèshū                    雅   雅各书
+60N  1Pe  I Peter                    1Pe  1 Pedro                    1Pe  I Pedro                    1Pi  1 Pierre                   1Пе  1 Петра                    1Bd  Bǐdéqiánshū                彼前 彼得前书
+61N  2Pe  II Peter                   2Pe  2 Pedro                    2Pe  II Pedro                   2Pi  2 Pierre                   2Пе  2 Петра                    2Bd  Bǐdéhòushū                 彼后 彼得后书
+62N  1Jo  I John                     1Ju  1 Juan                     1Jo  I João                     1Je  1 Jean                     1Ио  1 Иоанна                   1Yh  Yuēhànyīshū                约一 约翰一书
+63N  2Jo  II John                    2Ju  2 Juan                     2Jo  II João                    2Je  2 Jean                     2Ио  2 Иоанна                   2Yh  Yuēhànérshū                约二 约翰二书
+64N  3Jo  III John                   3Ju  3 Juan                     3Jo  III João                   3Je  3 Jean                     3Ио  3 Иоанна                   3Yh  Yuēhànsānshū               约三 约翰三书
+65N  Jud  Jude                       Jud  Judas                      Jud  Judas                      Jud  Jude                       Иуд  Иуда                       Yóu  Yóudàshū                   犹   犹太书
+66N  Rev  Revelation                 Apo  Apocalipsis                Apo  Apocalipse                 Apo  Apocalypse                 Отк  Откровение                 Qǐs  Qǐshìlù                    启   启示录
+67A  Tob  Tobit                      Tob  Tobias                     Tob  Tobias                     Tob  Tobit                      Tob  Tobit                      Tob  Tob  Tobit                 Tob  Tobit
+68A  Jdt  Judith                     Jdt  Judite                     Jdt  Judite                     Jdt  Judith                     Jdt  Judith                     Jdt  Jdt  Judith                Jdt  Judith
+69A  EGr  Esther (Greek)             EGr  Ester (Griego)             EGr  Ester (Grego)              EGr  Esther (Greek)             EGr  Esther (Greek)             EGr  EGr  Esther (Greek)        EGr  Esther (Greek)
+70A  Wis  Wisdom of Solomon          Sab  Sabedoria de Salomon       Sab  Sabedoria de Salomão       Sab  Wisdom of Solomon          Wis  Wisdom of Solomon          Wis  Wis  Wisdom of Solomon     Wis  Wisdom of Solomon
+71A  Eus  Ecclesiasticus             Eco  Eclesiastico               Eco  Eclesiástico               Eco  Ecclesiasticus             Eus  Ecclesiasticus             Eus  Eus  Ecclesiasticus        Eus  Ecclesiasticus
+72A  Bar  Baruch                     Bar  Baruque                    Bar  Baruque                    Bar  Baruch                     Bar  Baruch                     Bar  Bar  Baruch                Bar  Baruch
+73A  EJe  Epistle of Jeremiah        EJe  Epistola de Jeremias       EJe  Epístola de Jeremias       EJe  Epistle of Jeremiah        EJe  Epistle of Jeremiah        EJe  EJe  Epistle of Jeremiah   EJe  Epistle of Jeremiah
+74A  Aza  Prayer of Azariah          Aza  Oración de Azarias         Aza  Oração de Azarias          Aza  Prayer of Azariah          Aza  Prayer of Azariah          Aza  Aza  Prayer of Azariah     Aza  Prayer of Azariah
+75A  Sus  Susanna                    Sus  Susana                     Sus  Susana                     Sus  Susanna                    Sus  Susanna                    Sus  Sus  Susanna               Sus  Susanna
+76A  Bel  Bel and the Dragon         Bel  Bel y el Dragon            Bel  Bel e o Dragão             Bel  Bel and the Dragon         Bel  Bel and the Dragon         Bel  Bel  Bel and the Dragon    Bel  Bel and the Dragon
+77A  1Ma  1 Maccabees                1Ma  1 Macabeus                 1Ma  1 Macabeus                 1Ma  1 Maccabees                1Ma  1 Maccabees                1Ma  1Ma  1 Maccabees           1Ma  1 Maccabees
+78A  2Ma  2 Maccabees                2Ma  2 Macabeus                 2Ma  2 Macabeus                 2Ma  2 Maccabees                2Ma  2 Maccabees                2Ma  2Ma  2 Maccabees           2Ma  2 Maccabees
+79A  3Ma  3 Maccabees                3Ma  3 Macabeus                 3Ma  3 Macabeus                 3Ma  3 Maccabees                3Ma  3 Maccabees                3Ma  3Ma  3 Maccabees           3Ma  3 Maccabees
+80A  4Ma  4 Maccabees                4Ma  4 Macabeus                 4Ma  4 Macabeus                 4Ma  4 Maccabees                4Ma  4 Maccabees                4Ma  4Ma  4 Maccabees           4Ma  4 Maccabees
+81A  1Es  1 Esdras                   1Es  1 Esdras                   1Es  1 Esdras                   1Es  1 Esdras                   1Es  1 Esdras                   1Es  1Es  1 Esdras              1Es  1 Esdras
+82A  2Es  2 Esdras                   2Es  2 Esdras                   2Es  2 Esdras                   2Es  2 Esdras                   2Es  2 Esdras                   2Es  2Es  2 Esdras              2Es  2 Esdras
+83A  Man  Prayer of Manasseh         Man  Oración de Manasses        Man  Oração de Manasses         Man  Prayer of Manasseh         Man  Prayer of Manasseh         Man  Man  Prayer of Manasseh    Man  Prayer of Manasseh
+84A  151  Psalm 151                  151  Salmo 151                  151  Salmo 151                  151  Psalm 151                  151  Psalm 151                  151  151  Psalm 151             151  Psalm 151
+85A  Pso  Psalm of Solomon           Ssa  Salmo de Salomon           Ssa  Salmo de Salomão           Ssa  Psalm of Solomon           Pso  Psalm of Solomon           Pso  Pso  Psalm of Solomon      Pso  Psalm of Solomon
+86A  Ode  Odes                       Ode  Odes                       Ode  Odes                       Ode  Odes                       Ode  Odes                       Ode  Odes                       Ode  Odes
+87A
+88A
+89A
+90A
+91A
+92A
+93A
+94A
+95A
+96A
+97A
+98A
+99A
